@@ -1,0 +1,63 @@
+.inicio{
+    margin: 40px;
+    padding: 20px;
+    background-image: url(../Img/fondo.jpg);
+    background-color: #375694;
+}
+
+.contenedorinicio{
+    margin: 40px;
+    padding: 20px;
+    background-color: rgba(0,0,0,0.8);
+}
+
+h2{
+    text-align: center;
+}
+
+.inicio1{
+    padding: 40px;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    float: right;
+    justify-content: right;
+    text-align: left;
+}
+
+.herramienta{
+    height: 300px;
+    width: 400px;
+    margin: auto;
+}
+
+.inicio2 {
+    padding: 40px;
+    width: 500px;
+    text-align: left;
+
+}
+
+.fotocuadrada {
+    height: 300px;
+    width: 300px;
+    margin: auto;
+}
+
+.inicio3 {
+    padding: 40px;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+    text-align: left;
+    
+}
+
+.arbitro{
+    height: 350px;
+    width: 450px;
+    margin: auto;
+
+}
